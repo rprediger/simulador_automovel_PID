@@ -74,6 +74,6 @@ clear Diretorio Carro Controlador
 Executa_Simulacao();
 
 // Exibe os resultados
-Exibir_Simulacao(1);
-//Mostrar_Resultados_Resumido();
+Exibir_Simulacao(5);
+Mostrar_Resultados_Resumido();
 //Mostrar_Resultados();
