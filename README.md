@@ -50,6 +50,9 @@ Tudo isso de forma prática e visual, aproximando os conceitos teóricos da viv�
 3. Execute o arquivo `Simulacao.sce` para iniciar a simulação.
 4. Acompanhe os resultados na interface gráfica em tempo real ou utilize os gráficos adicionais para análise posterior.
 
+## Tutoriais em vídeos:
+[Playlist com tutorial em vídeo de instalação e utilização do simualdor](https://youtube.com/playlist?list=PLl3NUb_DTqW-lARwtwf4ZRTvMERD2YHqY&si=bx1rUhEc4hwJquec)
+
 ## 📌 Requisitos
 
 - [Scilab](https://www.scilab.org/) instalado no computador
